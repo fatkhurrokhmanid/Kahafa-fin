@@ -1,1 +1,1 @@
-Aplikasi Pencatan Keuangan
+Aplikasi Pencatat Keuangan
